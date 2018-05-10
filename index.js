@@ -14,7 +14,7 @@ function theBeatlesPlay (musicians, instruments) {
 
 
 
-const facts = [
+var facts = [
   "He was a small noodle", "He never spoke", "He worshipped his body", "He revered all geese"];
 
 var i = 0;
