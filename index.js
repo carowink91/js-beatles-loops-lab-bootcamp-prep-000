@@ -17,6 +17,7 @@ function theBeatlesPlay (musicians, instruments) {
 const facts = [
   "He was a small noodle", "He never spoke", "He worshipped his body", "He revered all geese"];
 
+
 function johnLennonFacts (facts) {
   while (i < facts.length) {
     facts[i++] + `!!!`;
